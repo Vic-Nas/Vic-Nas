@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Victorio</h1>
-# [**My Portfolio**](https://vic-nas.github.io/portfolio/)
+<h2 align="center"><a href="https://vic-nas.github.io/portfolio/">My Portfolio</a></h2>
 <h3 align="center">Student at UdeM</h3>
 
 <p align="center">
