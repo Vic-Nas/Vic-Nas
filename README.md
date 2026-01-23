@@ -52,7 +52,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/victorio-nascimento-866386345/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" height="40" style="margin: 0 8px;"/></a>
   <a href="https://open.kattis.com/users/vic-nas" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openbadges.svg" alt="Kattis" width="40" height="40" style="margin: 0 8px;"/></a>
-  <a href="https://vic-nas.github.io/portfolio/" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/WWW.svg" alt="Portfolio" width="40" height="40" style="margin: 0 8px;"/></a>
   <a href="mailto:nasci.victorio@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Email" width="40" height="40" style="margin: 0 8px;"/></a>
 </p>
 
