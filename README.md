@@ -12,7 +12,7 @@
   ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝╚═╝ ╚═════╝ 
 ```
 
-### `Computer Science @ UdeM` • `Competitive Programmer` • `System Architect`
+### `Computer Science @ UdeM` • `Competitive Programmer` • `Computer Vision Enthusiast`
 
 <img src="https://komarev.com/ghpvc/?username=Vic-Nas&label=visitors&color=0891b2&style=for-the-badge" alt="visitors" />
 
