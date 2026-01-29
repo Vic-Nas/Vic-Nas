@@ -32,7 +32,7 @@ Building scalable infrastructure, real-time systems, and competitive programming
 **Co-leading CALCULUM** — UdeM's competitive programming club where we push algorithmic limits.
 
 ```yaml
-current_focus:
+Current focus:
   - System Design & Web Architecture
   - Algorithm Optimization
   - Machine Learning & Computer Vision
