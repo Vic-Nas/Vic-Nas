@@ -24,7 +24,7 @@
 
 <div align="center">
 
-## ⚡ CURRENTLY SHIPPING
+## CURRENTLY SHIPPING
 
 </div>
 
@@ -51,7 +51,7 @@ current_focus:
 <tr>
 <td width="50%">
 
-### 🔌 Flashy
+### ⚡ Flashy
 **Path-based reverse proxy**
 
 Route multiple services through a single domain using Django. Clean architecture for service orchestration with URL rewriting and transparent JavaScript support.
