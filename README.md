@@ -108,9 +108,6 @@ Full Huffman coding algorithm built from scratch in C and Python, featuring tree
 
 ## 📊 METRICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=Vic-Nas&show_icons=true&theme=dark&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&icon_color=0891b2&border_color=30363d&hide_border=false&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Vic-Nas&theme=dark&background=0d1117&ring=0891b2&fire=0891b2&currStreakLabel=0891b2&border=30363d&stroke=30363d" width="48%" alt="GitHub Streak"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Vic-Nas&theme=react-dark&bg_color=0d1117&color=0891b2&line=0891b2&point=c9d1d9&area=true&hide_border=false&border_color=30363d" width="98%" alt="Contribution Graph"/>
 
 </div>
@@ -152,16 +149,6 @@ Full Huffman coding algorithm built from scratch in C and Python, featuring tree
 
 **PyTorch Masterclass** — freeCodeCamp (2025)  
 **OpenCV Bootcamp** — OpenCV.org (2025)
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 LANGUAGE DISTRIBUTION
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vic-Nas&layout=compact&theme=dark&bg_color=0d1117&title_color=0891b2&text_color=c9d1d9&border_color=30363d&hide_border=false&langs_count=10" width="48%" alt="Top Languages"/>
 
 </div>
 
