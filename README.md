@@ -89,14 +89,14 @@ Object-oriented music management system demonstrating clean Java architecture pa
 </td>
 <td width="50%">
 
-### 📦 Huffman Compression
-**Complete compression implementation**
+### 👁️ EditorWatch
+**Code authenticity monitor**
 
-Full Huffman coding algorithm built from scratch in C and Python, featuring tree construction and bitstream handling.
+VS Code extension and Flask backend that detects AI-generated code by analyzing how students write, not just what they write. Tracks typing patterns, incremental development, and paste behavior.
 
-`C` `Python` `Algorithms` `Data Structures`
+`Python` `Flask` `VS Code` `PostgreSQL` `Redis`
 
-**[→ View Repository](https://github.com/Vic-Nas/ARBRE-DE-COMPRESSION-DE-HUFFMAN)**
+**[→ View Repository](https://github.com/Vic-Nas/EditorWatch)**
 
 </td>
 </tr>
