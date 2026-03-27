@@ -63,7 +63,7 @@ Forward emails to your personal NeverDue address and deadlines appear straight i
 </td>
 <td width="50%">
 
-### ⚡ Flashy
+### [⚡ Flashy](https://flashy.vicnas.me)
 **Path-based reverse proxy**
 
 Route multiple services through a single domain using Django. Clean architecture for service orchestration with URL rewriting and transparent JavaScript support.
