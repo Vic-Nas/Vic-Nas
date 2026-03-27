@@ -51,6 +51,18 @@ Current focus:
 <tr>
 <td width="50%">
 
+### 📅 NeverDue
+**Email-to-calendar automation**
+
+Forward emails to your personal NeverDue address and deadlines appear straight in Google Calendar. LLM-powered extraction, category rules, recurring events, and a Pro tier with file/image import.
+
+`Django` `Celery` `Claude API` `Google Calendar` `Stripe`
+
+**[→ View Repository](https://github.com/Vic-Nas/neverdue)**
+
+</td>
+<td width="50%">
+
 ### ⚡ Flashy
 **Path-based reverse proxy**
 
@@ -61,30 +73,18 @@ Route multiple services through a single domain using Django. Clean architecture
 **[→ View Repository](https://github.com/Vic-Nas/Flashy)**
 
 </td>
-<td width="50%">
-
-### 🎮 Dash
-**Real-time multiplayer arena**
-
-Bot combat game with WebSocket synchronization. Players code AI agents that battle in real-time with low-latency network architecture.
-
-`WebSockets` `Real-time` `Multiplayer`
-
-**[→ View Repository](https://github.com/Vic-Nas/Dash)**
-
-</td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🎵 POOphonia
-**Music library manager**
+### 📋 drp
+**Instant clipboard & file sharing**
 
-Object-oriented music management system demonstrating clean Java architecture patterns and design principles.
+Share text, code snippets, and files from your terminal in seconds. Get a link, share it anywhere — no account needed. Burn-after-read, custom keys, collections, and a self-hostable server.
 
-`Java` `OOP` `Design Patterns`
+`Python` `CLI` `Django` `Redis` `PyPI`
 
-**[→ View Repository](https://github.com/Vic-Nas/POOphonia)**
+**[→ View Repository](https://github.com/vicnasdev/drp)** • **[drp.vicnas.me](https://drp.vicnas.me)**
 
 </td>
 <td width="50%">
@@ -97,6 +97,20 @@ VS Code extension and Flask backend that detects AI-generated code by analyzing 
 `Python` `Flask` `VS Code` `PostgreSQL` `Redis`
 
 **[→ View Repository](https://github.com/Vic-Nas/EditorWatch)**
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### 🎵 POOphonia
+**Music library manager**
+
+Object-oriented music management system demonstrating clean Java architecture patterns and design principles.
+
+`Java` `OOP` `Design Patterns`
+
+**[→ View Repository](https://github.com/Vic-Nas/POOphonia)**
 
 </td>
 </tr>
@@ -164,6 +178,6 @@ VS Code extension and Flask backend that detects AI-generated code by analyzing 
 
 ---
 
-<sub>Built with 💻 by Victorio | Last updated: January 2026</sub>
+<sub>Built with 💻 by Victorio | Last updated: March 2026</sub>
 
 </div>
