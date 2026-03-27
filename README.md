@@ -51,7 +51,7 @@ Current focus:
 <tr>
 <td width="50%">
 
-### 📅 NeverDue
+### [📅 NeverDue](https://neverdue.ca)
 **Email-to-calendar automation**
 
 Forward emails to your personal NeverDue address and deadlines appear straight in Google Calendar. LLM-powered extraction, category rules, recurring events, and a Pro tier with file/image import.
@@ -77,7 +77,7 @@ Route multiple services through a single domain using Django. Clean architecture
 <tr>
 <td width="50%">
 
-### 📋 drp
+### [📋 drp](https://drp.vicnas.me)
 **Instant clipboard & file sharing**
 
 Share text, code snippets, and files from your terminal in seconds. Get a link, share it anywhere — no account needed. Burn-after-read, custom keys, collections, and a self-hostable server.
