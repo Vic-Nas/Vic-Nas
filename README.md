@@ -55,8 +55,6 @@ A Bitcoin-style consensus model where the most cumulative proven work wins, but 
 
 `Python` `VDF Consensus` `FALCON-512` `P2P Networking` `Cryptography`
 
-**[Repository](https://github.com/Vic-Nas/lapsecoin-core)**
-
 </td>
 </tr>
 <tr>
@@ -68,8 +66,6 @@ A Bitcoin-style consensus model where the most cumulative proven work wins, but 
 Forward emails to your personal NeverDue address and deadlines appear straight in Google Calendar. LLM-powered extraction, category rules, recurring events, and a Pro tier with file and image import.
 
 `Django` `Celery` `Claude API` `Google Calendar` `Stripe`
-
-**[Repository](https://github.com/Vic-Nas/neverdue)**
 
 </td>
 </tr>
@@ -83,19 +79,15 @@ Route multiple services through a single domain using Django. Clean architecture
 
 `Django` `Python` `Proxy` `Docker`
 
-**[Repository](https://github.com/Vic-Nas/Flashy)**
-
 </td>
 <td width="50%">
 
-### [drp](https://drp.vicnas.me)
+### [drp](https://github.com/vicnasdev/drp)
 **Instant clipboard and file sharing**
 
 Share text, code snippets, and files from your terminal in seconds. Get a link, share it anywhere, no account needed. Burn-after-read, custom keys, collections, and a self-hostable server.
 
 `Python` `CLI` `Django` `Redis` `PyPI`
-
-**[Repository](https://github.com/vicnasdev/drp)**
 
 </td>
 </tr>
@@ -109,33 +101,27 @@ A reciprocity-based testing network that helps indie founders and startup builde
 
 `Python`
 
-**[Repository](https://github.com/Vic-Nas/KarmaRace)**
-
 </td>
 <td width="50%">
 
-### EditorWatch
+### [EditorWatch](https://github.com/Vic-Nas/EditorWatch)
 **Code authenticity monitor**
 
 VS Code extension and Flask backend that detects AI-generated code by analyzing how students write, not just what they write. Tracks typing patterns, incremental development, and paste behavior.
 
 `Python` `Flask` `VS Code` `PostgreSQL` `Redis`
 
-**[Repository](https://github.com/Vic-Nas/EditorWatch)**
-
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
 
-### POOphonia
+### [POOphonia](https://github.com/Vic-Nas/POOphonia)
 **Music library manager**
 
 Object-oriented music management system demonstrating clean Java architecture patterns and design principles.
 
 `Java` `OOP` `Design Patterns`
-
-**[Repository](https://github.com/Vic-Nas/POOphonia)**
 
 </td>
 </tr>
