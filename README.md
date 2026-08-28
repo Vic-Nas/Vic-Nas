@@ -60,9 +60,9 @@ A Bitcoin-style consensus model where the most cumulative proven work wins, but 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td colspan="2" align="center">
 
-### [NeverDue](https://neverdue.ca)
+### [NeverDue](https://github.com/Vic-Nas/neverdue)
 **Email-to-calendar automation**
 
 Forward emails to your personal NeverDue address and deadlines appear straight in Google Calendar. LLM-powered extraction, category rules, recurring events, and a Pro tier with file and image import.
@@ -72,23 +72,11 @@ Forward emails to your personal NeverDue address and deadlines appear straight i
 **[Repository](https://github.com/Vic-Nas/neverdue)**
 
 </td>
-<td width="50%">
-
-### [statuspage](https://github.com/Vic-Nas/statuspage)
-**Self-hosted uptime and incident tracking**
-
-Lightweight status page with live uptime polling, response time charts, and incident tracking, no third-party dependency required.
-
-`Python` `Monitoring` `Self-hosted`
-
-**[Repository](https://github.com/Vic-Nas/statuspage)**
-
-</td>
 </tr>
 <tr>
 <td width="50%">
 
-### [Flashy](https://flashy.vicnas.me)
+### [Flashy](https://github.com/Vic-Nas/Flashy)
 **Path-based reverse proxy**
 
 Route multiple services through a single domain using Django. Clean architecture for service orchestration with URL rewriting and transparent JavaScript support.
@@ -107,7 +95,7 @@ Share text, code snippets, and files from your terminal in seconds. Get a link, 
 
 `Python` `CLI` `Django` `Redis` `PyPI`
 
-**[Repository](https://github.com/vicnasdev/drp)** · **[drp.vicnas.me](https://drp.vicnas.me)**
+**[Repository](https://github.com/vicnasdev/drp)**
 
 </td>
 </tr>
